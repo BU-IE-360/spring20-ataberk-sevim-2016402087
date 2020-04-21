@@ -1,13 +1,6 @@
-# Header 1
-## Header 2
-### Header 3
+# Welcome
+## This website is a journal of Ataberk Sevim's work during IE360 Time Series and Forecasting Lecture.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Here](files/example_homework_0.html)
+1. **Homework 1**
+[Here](files/IE360r.html)
