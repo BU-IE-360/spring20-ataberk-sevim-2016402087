@@ -6,3 +6,5 @@
 [Here](files/IE360hw1.html)
 2. **Homework 2-3**
 [Here](files/IE360 HW2.html)
+3. **Homework 4-5**
+[Here](files/IE360 HW4-5.html)
